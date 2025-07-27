@@ -26,23 +26,10 @@ This paper measures gender bias in what people say about women versus men in an 
 
 ### $\color{olive}{In \space Progress}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
-<!-- 
-Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
--->
 
-- Learning about Coworkers: Evidence from Teams of Computer Scientists (with Antonio Coran, Francesca Miserocchi, and Savannah Noray)
+- The Race between Academia and Industry for AI Researchers (with Francesca Miserocchi and Savannah Noray)
 
-<!-- 
-<a href="#/" onclick="visib('jmp')">Abstract</a> \| 
-<div id='jmp' style="display: none; text-align: justify; line-height: 1.2" >
-This paper tests for employer learning about worker ability and quantifies the role of learning in improving the allocation of talent in the labor market for computer scientists. I match the job histories of 40,000 Ph.D.'s in computer science (CS) to publications and patent applications that signal their research ability. Publishing a CS conference proceeding doubles the probability of moving to one of the top-6 tech firms in the following year, controlling for origin firm and experience - a pattern that suggests a strong role for public learning in inter-firm reallocation. Higher-quality papers often coincide with a closely related patent application, but the fact of filing remains private for 18 months. Authors of such papers experience a delayed increase in inter-firm and upward mobility, as predicted by a simple model of employee wage setting with asymmetric information. I estimate a structural version of the model and find that in the absence of employer learning from public research records, the innovation output of early-career computer scientists would drop by 16%. Disclosing patent applications one year faster would increase innovation by 1%, driven by faster positive assortative matching.  </div>
---> 
-
-<!--
-- Does Trade Secret Litigation Increase Monopsony Power? Evidence from the Defend Trade Secrets Act <br/> (with <a href="https://www.evgeniifadeev.com" target="_blank">Evgenii Fadeev</a>) <a href="#/" onclick="visib('law')">Abstract</a> 
-<div id='law' style="display: none; text-align: justify; line-height: 1.2" >
-We use the texts of legal complaints from trade secret litigation to study how firms responded to the enactment of the Defend Trade Secrets Act (DTSA) in 2016. One of the goals of this act was to increase the protection of American firms against international trade secret theft. Within a year of the act's passage, trade secret litigation surged by 33%. However, this increase was predominantly driven by US companies suing employees who transitioned to other domestic firms. We show that the spike in litigation post-DTSA was more pronounced in states with weaker enforceability of non-compete agreements. This evidence suggests that firms might resort to trade secret litigation as an alternative to non-compete clauses. We examine whether a trade secret lawsuit against an employee affects her own job mobility, productivity and business ventures, as well as spillover effects on her former co-workers at the plaintiff.    </div>
--->
+- Returns to On-the-Job Training (with Kuan-Ming Chen) 
 
 
 
