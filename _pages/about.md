@@ -10,9 +10,9 @@ redirect_from:
 <!--![github small](/images/JM_profile.jpg) -->
  <!-- <img src="/images/JM_profile.jpg" alt="drawing" width="200" height="235" style="float: left; padding-right:15px"/>  -->
 
-I am an incoming Assistant Professor at the Department of Economics of UW Madison. I work on topics in labor, personnel, and innovation. 
+I am an Assistant Professor at the Department of Economics of UW Madison. I work on topics in labor, personnel, and innovation. 
 
-My current research investigates information frictions in the labor market and their implications for the sorting of workers across firms. 
+My current research investigates information frictions in the labor market and their implications for the sorting of workers across firms, and the competition between academia and industry for talent. 
 
 Here is my <a href="/files/AliceWu_CV.pdf" target="_blank">CV</a>. My email is <hwu526@wisc.edu>. 
 
