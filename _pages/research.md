@@ -8,7 +8,9 @@ author_profile: true
 
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025, Revise and Resubmit at *Econometrica* <br/>
 
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with Sabrina Di Addario) April 2025
+- The Race between Academia and Industry for AI Researchers (with Francesca Miserocchi and Savannah Noray) Coming soon. 
+
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) September 2025. 
 
 
 
@@ -26,8 +28,6 @@ This paper measures gender bias in what people say about women versus men in an 
 
 ### $\color{olive}{In \space Progress}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
-
-- The Race between Academia and Industry for AI Researchers (with Francesca Miserocchi and Savannah Noray)
 
 - Returns to On-the-Job Training (with Kuan-Ming Chen) 
 
@@ -60,3 +60,4 @@ This paper measures gender bias in what people say about women versus men in an 
 {% for post in site.papers reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
