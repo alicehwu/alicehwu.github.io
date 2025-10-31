@@ -8,7 +8,7 @@ author_profile: true
 
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025, Revise and Resubmit at *Econometrica* <br/>
 
-- The Race between Academia and Industry for AI Researchers (with Francesca Miserocchi and Savannah Noray) Coming soon. 
+- <a href="https://www.dropbox.com/scl/fi/txulydhsd1dzqa8wo72bl/AI-researchers_Miserocchi_Noray_Wu.pdf?rlkey=y3ritrpa917kd2xc4euyq6oko&st=76mvfntr&dl=0" target="_blank">The Race between Academia and Industry for AI Researchers</a> (with Francesca Miserocchi and Savannah Noray) November 2025. 
 
 - <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) September 2025. 
 
@@ -60,4 +60,5 @@ This paper measures gender bias in what people say about women versus men in an 
 {% for post in site.papers reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
 
