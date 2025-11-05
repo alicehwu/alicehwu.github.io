@@ -8,8 +8,8 @@ author_profile: true
 ## $$\color{olive}{Teaching}$$ 
 <strong> UW Madison </strong> 
 * Econ 750 - (PhD) Labor Economics 
-* Econ 695 - (Undergrad) Causal Effects in Policy 
-* Econ 770 - (Master) Data Analytics for Economists  
+* Econ 695 - (Undergrad) Causal Inference
+* Econ 770 - (Master) Data Analytics for Economists - Python
   
 <strong> Harvard </strong>
 * Econ 2120 - (PhD) Econometrics, F2021 & F2022, TA for Elie Tamer, with Distinction in Teaching.
