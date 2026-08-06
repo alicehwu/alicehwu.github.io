@@ -6,7 +6,8 @@ author_profile: true
 ---
 ### $\color{olive}{Working \space Papers}$ 
 
-- <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025, Revise and Resubmit at *Econometrica* <br/>
+- <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Employer Learning, Sorting, and Productivity: Evidence from Computer Scientists</a> August 2026, Revise and Resubmit at *Econometrica*
+   - Previously titled <a href="/files/Wu_JMP_01_2025.pdf" target="_self"> Reveal or Conceal</a><br/>
 
 - <a href="https://www.dropbox.com/scl/fi/txulydhsd1dzqa8wo72bl/AI-researchers_Miserocchi_Noray_Wu.pdf?rlkey=y3ritrpa917kd2xc4euyq6oko&st=76mvfntr&dl=0" target="_blank">The Race between Academia and Industry for AI Researchers</a> (with Francesca Miserocchi and Savannah Noray) March 2026. 
 
