@@ -10,7 +10,7 @@ author_profile: true
 
 - <a href="https://www.dropbox.com/scl/fi/txulydhsd1dzqa8wo72bl/AI-researchers_Miserocchi_Noray_Wu.pdf?rlkey=y3ritrpa917kd2xc4euyq6oko&st=76mvfntr&dl=0" target="_blank">The Race between Academia and Industry for AI Researchers</a> (with Francesca Miserocchi and Savannah Noray) March 2026. 
 
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) September 2025. 
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) September 2026. 
 
 
 
