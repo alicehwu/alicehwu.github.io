@@ -26,10 +26,10 @@ This paper measures gender bias in what people say about women versus men in an 
 - <a href="/files/gendered_language_2018.pdf" target="_self">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
 
 
-### $\color{olive}{In \space Progress}$ 
+### $\color{olive}{Coming \space Soon}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
 
-- Returns to On-the-Job Training (with Kuan-Ming Chen) 
+- Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) 
 
 
 
