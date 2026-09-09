@@ -10,11 +10,12 @@ redirect_from:
 <!--![github small](/images/JM_profile.jpg) -->
  <!-- <img src="/images/JM_profile.jpg" alt="drawing" width="200" height="235" style="float: left; padding-right:15px"/>  -->
 
-I am an Assistant Professor at the Department of Economics of UW Madison. I work on topics in labor, personnel, and innovation. 
+I am an Assistant Professor at the Department of Economics of UW Madison. I work in labor, innovation, and personnel economics. 
 
-My current research investigates information frictions in the labor market and their implications for the sorting of workers across firms, and the competition between academia and industry for talent. 
+My recent papers examine how employers discover talented workers in science and technology, and what that process means for individual career outcomes, for the sorting of workers across firms, and for innovation output.  
 
-Here is my <a href="/files/AliceWu_CV.pdf" target="_blank">CV</a>. My email is <hwu526@wisc.edu>. 
+
+<a href="/files/AliceWu_CV.pdf" target="_blank">CV</a> | Email: <hwu526@wisc.edu>. 
 
 <!-- to quantify the impact of employer learning on labor market mobility, wages, and aggregate productivity. --> 
 <!-- In my job market paper, I study asymmetric employer learning in the labor market for computer scientists. I build a dynamic framework to consider firms' endogenous investment in learning under monopsonistic competition, exploit differential timing of innovation disclosure to test for asymmetric employer learning, and quantify its impact on job mobility and innovation productivity via structural estimation. --> 
