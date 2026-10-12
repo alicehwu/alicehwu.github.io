@@ -12,6 +12,12 @@ author_profile: true
 
 - <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) October 2026. 
 
+### $\color{olive}{Coming \space Soon}$ 
+- Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) 
+
+- The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
+
+
 
 
 ### $\color{olive}{Publications}$ 
@@ -25,11 +31,6 @@ This paper measures gender bias in what people say about women versus men in an 
 
 - <a href="/files/gendered_language_2018.pdf" target="_self">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
 
-
-### $\color{olive}{Coming \space Soon}$ 
-- The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
-
-- Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) 
 
 
 
