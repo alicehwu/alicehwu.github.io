@@ -9,11 +9,11 @@ author_profile: true
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Employer Learning, Sorting, and Productivity: Evidence from Computer Scientists </a> August 2026, Revise and Resubmit at *Econometrica*
 
 - <a href="https://www.dropbox.com/scl/fi/txulydhsd1dzqa8wo72bl/AI-researchers_Miserocchi_Noray_Wu.pdf?rlkey=y3ritrpa917kd2xc4euyq6oko&st=76mvfntr&dl=0" target="_blank">The Race between Academia and Industry for AI Researchers</a> (with Francesca Miserocchi and Savannah Noray) March 2026. 
-
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) October 2026.
   
 - <a href="https://www.dropbox.com/scl/fi/3hx2i1u9hsk2nsdreh5xi/CHLW_training_in_taiwan.pdf?rlkey=o8vz2bsfyhetjgpe5oggevjs2&e=1&dl=0" target="_blank">Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan</a> (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) October 2026. 
 
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) October 2026.
+  
 ### $\color{olive}{Coming \space Soon}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber and Elizabeth Li)   
 
