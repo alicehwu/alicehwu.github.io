@@ -12,7 +12,7 @@ author_profile: true
 
 - <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) October 2026.
   
-- <a href="https://www.dropbox.com/scl/fo/jg8di2zx8gh8jstk9vcmq/AKj_KtpJOrYF4Stee2kcf_g?rlkey=qv3g1jh24kjimiq7qffgv7jd3&dl=0" target="_blank">Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan</a> (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) October 2026. 
+- <a href="https://www.dropbox.com/scl/fi/3hx2i1u9hsk2nsdreh5xi/CHLW_training_in_taiwan.pdf?rlkey=o8vz2bsfyhetjgpe5oggevjs2&e=1&dl=0" target="_blank">Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan</a> (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) October 2026. 
 
 ### $\color{olive}{Coming \space Soon}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
