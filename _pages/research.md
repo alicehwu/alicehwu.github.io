@@ -15,7 +15,7 @@ author_profile: true
 - <a href="https://www.dropbox.com/scl/fi/3hx2i1u9hsk2nsdreh5xi/CHLW_training_in_taiwan.pdf?rlkey=o8vz2bsfyhetjgpe5oggevjs2&e=1&dl=0" target="_blank">Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan</a> (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) October 2026. 
 
 ### $\color{olive}{Coming \space Soon}$ 
-- The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
+- The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber and Elizabeth Li)   
 
 - Human Capital and the Growth of the Semiconductor Industry (with Kuan-Ming Chen and Omeed Maghzian) 
 
