@@ -10,15 +10,14 @@ author_profile: true
 
 - <a href="https://www.dropbox.com/scl/fi/txulydhsd1dzqa8wo72bl/AI-researchers_Miserocchi_Noray_Wu.pdf?rlkey=y3ritrpa917kd2xc4euyq6oko&st=76mvfntr&dl=0" target="_blank">The Race between Academia and Industry for AI Researchers</a> (with Francesca Miserocchi and Savannah Noray) March 2026. 
 
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) October 2026. 
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) October 2026.
+  
+- <a href="https://www.dropbox.com/scl/fo/jg8di2zx8gh8jstk9vcmq/AKj_KtpJOrYF4Stee2kcf_g?rlkey=qv3g1jh24kjimiq7qffgv7jd3&dl=0" target="_blank">Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan</a> (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) October 2026. 
 
 ### $\color{olive}{Coming \space Soon}$ 
-- Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) 
-
 - The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
 
-
-
+- Human Capital and the Growth of the Semiconductor Industry (with Kuan-Ming Chen and Omeed Maghzian) 
 
 ### $\color{olive}{Publications}$ 
 - <a href="/files/wu_ejr_restat.pdf" target="_self">Gender Bias in Rumors Among Professionals: An Identity-based Interpretation</a> *Review of Economics and Statistics*, 102, 5, pp. 867-880. December 2020.
