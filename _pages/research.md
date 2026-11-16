@@ -10,7 +10,7 @@ author_profile: true
 
 - <a href="https://www.dropbox.com/scl/fi/txulydhsd1dzqa8wo72bl/AI-researchers_Miserocchi_Noray_Wu.pdf?rlkey=y3ritrpa917kd2xc4euyq6oko&st=76mvfntr&dl=0" target="_blank">The Race between Academia and Industry for AI Researchers</a> (with Francesca Miserocchi and Savannah Noray) March 2026. 
 
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) November 2026.
+- <a href="https://www.rfberlin.com/wp-content/uploads/2026/11/26306.pdf" target="_self">Firm Heterogeneity in the Identification and Reward of Inventors</a> (with Sabrina Di Addario) November 2026.
 
 - <a href="https://www.dropbox.com/scl/fi/3hx2i1u9hsk2nsdreh5xi/CHLW_training_in_taiwan.pdf?rlkey=o8vz2bsfyhetjgpe5oggevjs2&e=1&dl=0" target="_blank">Employer-Provided Training, Wage Growth, and Motherhood Penalty: Evidence from Taiwan</a> (with Kuan-Ming Chen, Bo-Yan Huang and Ming-Jen Lin) October 2026. 
   
