@@ -7,8 +7,8 @@ author_profile: true
 
 ## $$\color{olive}{Teaching}$$ 
 <strong> UW Madison </strong> 
-* Econ 750 - (PhD) Labor Economics 
-* Econ 695 - (Undergrad) Causal Inference
+* Econ 750/751 - (PhD) Labor Economics 
+* Econ 695 - (Undergrad) Applied Econometrics
 * Econ 770 - (Master) Data Analytics for Economists - Python
   
 <strong> Harvard </strong>
